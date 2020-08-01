@@ -1,7 +1,20 @@
-*,
-html {
+html,
+body {
+  height: 100%;
   background-color: #423144;
 }
-#navbarMenuHeroA {
+.dark-background,
+.section {
   background-color: #423144;
+}
+
+.hero-head,
+#navbarMenuHeroA {
+  background-color: #352736;
+}
+.navbar-end {
+  padding: 5px;
+}
+.navbar-end a {
+  margin-bottom: 2px;
 }
