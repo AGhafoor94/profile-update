@@ -1,0 +1,25 @@
+{
+  "name": "profile-website",
+  "version": "1.0.0",
+  "description": "- Using Node\r - Using Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AGhafoor94/profile-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AGhafoor94/profile-website/issues"
+  },
+  "homepage": "https://github.com/AGhafoor94/profile-website#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "path": "^0.12.7"
+  }
+}
