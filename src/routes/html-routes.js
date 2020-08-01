@@ -5,7 +5,7 @@ const sendHome = (req, res) => {
   res.redirect("/home");
 };
 const homeRoute = (req, res) => {
-  res.render("dashboard");
+  res.render("home");
 };
 
 router.get("/", sendHome);
