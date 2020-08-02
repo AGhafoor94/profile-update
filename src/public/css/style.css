@@ -18,6 +18,12 @@ body {
 .navbar-end a {
   margin-bottom: 2px;
 }
+.links {
+  color: #cf1b1b;
+}
+.links:hover {
+  color: #900d0d;
+}
 #button {
   background-color: #900d0d;
 }
