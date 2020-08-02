@@ -1,16 +1,16 @@
 html,
 body {
   height: 100%;
-  background-color: #423144;
+  background-color: #2b2e4a;
 }
 .dark-background,
 .section {
-  background-color: #423144;
+  background-color: #2b2e4a;
 }
 
 .hero-head,
 #navbarMenuHeroA {
-  background-color: #352736;
+  background-color: #24273f;
 }
 .navbar-end {
   padding: 5px;
@@ -21,11 +21,14 @@ body {
 #button {
   background-color: #900d0d;
 }
+#content {
+  margin-top: 20px;
+}
 footer {
   position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
   text-align: center;
-  background-color: #352736;
+  background-color: #24273f;
 }

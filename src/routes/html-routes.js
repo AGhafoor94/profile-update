@@ -38,6 +38,6 @@ const searchRepo = async ({ body }, res) => {
 router.get("/", sendHome);
 router.get("/home", homeRoute);
 router.get("/portfolio", portfolioPage);
-router.post("/search", searchRepo);
+router.post("/portfolio", searchRepo);
 
 module.exports = router;
