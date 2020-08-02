@@ -18,6 +18,9 @@ body {
 .navbar-end a {
   margin-bottom: 2px;
 }
+#button {
+  background-color: #900d0d;
+}
 footer {
   position: fixed;
   left: 0;
